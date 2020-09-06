@@ -1,4 +1,4 @@
-ETL - PROJECT
+ETL-PROJECT
 The goal of this project was to prep data using ETL methodology and gain valuable insights about Chicago Public Schools. We reviewed datasets from data.cityofchicago.org and Scribd.  We began the process by searching for various data from the City of Chicago website and then choosing a topic that was interesting to us. We then found multiple data sets and reviewed them thoroughly. 
 
 Below was our specific process and steps:
