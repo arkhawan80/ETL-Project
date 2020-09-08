@@ -6,7 +6,6 @@ Accessable VARCHAR (30) NOT NULL
 );
 Select * FROM Handicap;
 
-
 -- Drop Table IF exists Reportcard;
 CREATE TABLE Reportcard(
 School_ID VARCHAR(30) NOT NULL,
@@ -35,6 +34,7 @@ SELECT
 FROM Reportcard
 INNER JOIN DistrictRep_clean
 ON Reportcard.School_ID = DistrictRep_clean.School ID;
+
 
 SELECT 
 	Reportcard.School_ID,
